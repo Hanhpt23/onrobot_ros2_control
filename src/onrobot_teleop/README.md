@@ -5,7 +5,6 @@
 
 ## Installation
 
-1. Navigate to your ROS 2 workspace and **clone the repository** into the `src` directory:
 ```bash
 cd ~/AI
 git clone https://github.com/Hanhpt23/melfa_ws.git
