@@ -7,7 +7,7 @@
 
 ```bash
 cd ~/AI
-git clone https://github.com/Hanhpt23/melfa_ws.git
+git clone https://github.com/Hanhpt23/onrobot_ros2_control.git
 cd melfa_ws
 source /opt/ros/humble/setup.bash
 colcon build --symlink-install
