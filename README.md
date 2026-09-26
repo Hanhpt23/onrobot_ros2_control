@@ -2,6 +2,11 @@
 
 3D Spacemouse and Keyboard control for OnRobot Grippers.
 
+## 🎥 Demo
+
+[![OnRobot RG2 Gripper - 3D SpaceMouse & Keyboard Control](https://img.youtube.com/vi/P3mi2jNRtLs/maxresdefault.jpg)](https://www.youtube.com/watch?v=P3mi2jNRtLs)
+
+Click the image above to watch the demo on YouTube.
 
 ## Installation
 
